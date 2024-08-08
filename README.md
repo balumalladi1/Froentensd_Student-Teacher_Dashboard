@@ -87,7 +87,7 @@ Front End:
 
 2) UI Development: Using the CSS, React JS UI Development was done.
 3) Components:
-       It Consists of Login Route - (User Need to Authenticated - Username: balu, Password:12345
+       It Consists of Login Route - (User Need to Authenticated - Username: Balu, Password:12345
        After Authenticated will be routed to Home Page - Which consists of Header, Sidebar, Welcome Image.
        In Side bar after clicking the Student Details will be routed to Student Component and Table will be displayed showing Student details and also submit Form is also available for Showing the
    Student to post to Database.
